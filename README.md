@@ -1,5 +1,11 @@
 # **24x7 Store Sales Analysis 📊**  
 
+---
+
+### Project Link: [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDQwZWQzMGMtOTExMi00MzJhLTgzNmItNjBiNTQwN2NkODM1IiwidCI6IjU1MjY1NGUyLTAzZTktNDYyYy04MTljLTczZmI1NDgxYzQ2YyJ9)
+
+
+
 ## **Overview**  
 The **24x7 Store Sales Analysis** project is designed to provide valuable insights into e-commerce sales data using **Power BI**. This project utilizes **DAX measures**, **advanced filtering techniques**, and **interactive dashboards** to track key business metrics, including:  
 - **Revenue trends** 💰  
@@ -55,9 +61,21 @@ By transforming complex datasets into **intuitive visual reports**, this project
 
 ---
 
+## 🛠️ Skills Demonstrated  
+- **Data Cleaning and Transformation:** Used EDA techniques to preprocess raw data for visualization.  
+- **Visualization:** Created an interactive, user-friendly Power BI dashboard for easy exploration of sales metrics.  
+- **SQL Expertise:** Executed complex queries for data retrieval and manipulation.  
+- **Analytical Thinking:** Delivered actionable insights to improve business strategies and sales performance.
+
+---
+
+## 🌟 Project Outcomes  
+This project has provided significant insights into sales performance, enabling stakeholders to identify growth opportunities and improve operational efficiency. By understanding sales trends, customer behaviors, and revenue drivers, businesses can make data-driven decisions to achieve better results.  
+
+---
+
 ## **How to View the Dashboard? 📌**  
-🔹 The Power BI dashboard is hosted online and can be accessed through a **view-only link**.  
-🔹 If you're an interviewer reviewing this project, please reach out for access.  
+🔹 The Power BI dashboard is hosted online and can be accessed through a **[this link](https://app.powerbi.com/view?r=eyJrIjoiNDQwZWQzMGMtOTExMi00MzJhLTgzNmItNjBiNTQwN2NkODM1IiwidCI6IjU1MjY1NGUyLTAzZTktNDYyYy04MTljLTczZmI1NDgxYzQ2YyJ9)**.  
 
 ---
 
