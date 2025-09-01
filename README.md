@@ -79,11 +79,6 @@ This project has provided significant insights into sales performance, enabling 
 
 ---
 
-## **Screenshots & Visuals 📷**  
-*(Include screenshots of your Power BI dashboard for a better presentation!)*  
-
----
-
 ## **Contact & Discussion 💬**  
 If you have any questions or want to discuss the project, feel free to connect! 😊  
                               
